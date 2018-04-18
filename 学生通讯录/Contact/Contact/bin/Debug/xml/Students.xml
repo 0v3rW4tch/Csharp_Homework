@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student studentkey="9">
+    <studentid>1</studentid>
+    <name>陈健华</name>
+    <sex>男</sex>
+    <age>20</age>
+    <birthdate>1997-10-20</birthdate>
+    <phone>15505192646</phone>
+    <homeaddress>China</homeaddress>
+    <email>1073313561@qq.com</email>
+    <profession>信息安全</profession>
+  </student>
+  <student studentkey="11">
+    <studentid>2</studentid>
+    <name>许亮</name>
+    <sex>男</sex>
+    <age>20</age>
+    <birthdate>2001- 12- 28</birthdate>
+    <phone>2311</phone>
+    <homeaddress>132</homeaddress>
+    <email>155@163.com</email>
+    <profession>计算机科学与技术</profession>
+  </student>
+  <student studentkey="12">
+    <studentid>3</studentid>
+    <name>达祺</name>
+    <sex>女</sex>
+    <age>21</age>
+    <birthdate>1997- 12- 28</birthdate>
+    <phone>2311</phone>
+    <homeaddress>132</homeaddress>
+    <email>13@163.com</email>
+    <profession>电子信息科学与技术</profession>
+  </student>
+  <student studentkey="17">
+    <studentid>52</studentid>
+    <name>RInfd</name>
+    <sex>男</sex>
+    <age>21</age>
+    <birthdate>1997- 01- 03</birthdate>
+    <phone>2131</phone>
+    <homeaddress>C</homeaddress>
+    <email>123132@163.com</email>
+    <profession>计算机科学与技术</profession>
+  </student>
+  <student studentkey="18">
+    <studentid>12</studentid>
+    <name>李华</name>
+    <sex>女</sex>
+    <age>15</age>
+    <birthdate>2003-01-05</birthdate>
+    <phone>65538</phone>
+    <homeaddress>China</homeaddress>
+    <email>lv23@163.com</email>
+    <profession>计算机科学与技术</profession>
+  </student>
+  <student studentkey="19">
+    <studentid>55</studentid>
+    <name>1</name>
+    <sex>女</sex>
+    <age>1</age>
+    <birthdate>2018-01-06</birthdate>
+    <phone>1</phone>
+    <homeaddress>1</homeaddress>
+    <email>1@qq.com</email>
+    <profession>1</profession>
+  </student>
+</students>

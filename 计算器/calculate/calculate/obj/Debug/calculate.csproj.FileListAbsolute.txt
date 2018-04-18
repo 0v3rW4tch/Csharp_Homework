@@ -1,0 +1,10 @@
+D:\编程文件\计算器\calculate\calculate\bin\Debug\calculate.exe.config
+D:\编程文件\计算器\calculate\calculate\bin\Debug\calculate.exe
+D:\编程文件\计算器\calculate\calculate\bin\Debug\calculate.pdb
+D:\编程文件\计算器\calculate\calculate\obj\Debug\calculate.csprojResolveAssemblyReference.cache
+D:\编程文件\计算器\calculate\calculate\obj\Debug\calculate.Form_Main.resources
+D:\编程文件\计算器\calculate\calculate\obj\Debug\calculate.Properties.Resources.resources
+D:\编程文件\计算器\calculate\calculate\obj\Debug\calculate.csproj.GenerateResource.Cache
+D:\编程文件\计算器\calculate\calculate\obj\Debug\calculate.csproj.CoreCompileInputs.cache
+D:\编程文件\计算器\calculate\calculate\obj\Debug\calculate.exe
+D:\编程文件\计算器\calculate\calculate\obj\Debug\calculate.pdb

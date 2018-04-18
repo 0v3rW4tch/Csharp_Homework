@@ -1,0 +1,12 @@
+D:\编程文件\拼图游戏\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe.config
+D:\编程文件\拼图游戏\myPuzzle\myPuzzle\bin\Debug\myPuzzle.exe
+D:\编程文件\拼图游戏\myPuzzle\myPuzzle\bin\Debug\myPuzzle.pdb
+D:\编程文件\拼图游戏\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csprojResolveAssemblyReference.cache
+D:\编程文件\拼图游戏\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Main.resources
+D:\编程文件\拼图游戏\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Form_Original.resources
+D:\编程文件\拼图游戏\myPuzzle\myPuzzle\obj\Debug\myPuzzle.Properties.Resources.resources
+D:\编程文件\拼图游戏\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.GenerateResource.Cache
+D:\编程文件\拼图游戏\myPuzzle\myPuzzle\obj\Debug\myPuzzle.csproj.CoreCompileInputs.cache
+D:\编程文件\拼图游戏\myPuzzle\myPuzzle\obj\Debug\myPuzzle.exe
+D:\编程文件\拼图游戏\myPuzzle\myPuzzle\obj\Debug\myPuzzle.pdb
+D:\编程文件\拼图游戏\myPuzzle\myPuzzle\obj\Debug\myPuzzle.sel_level.resources

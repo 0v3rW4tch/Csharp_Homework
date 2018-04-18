@@ -1,0 +1,13 @@
+D:\编程文件\多文档编辑器\SimpleMDIExample\SimpleMDIExample\bin\Debug\SimpleMDIExample.exe.config
+D:\编程文件\多文档编辑器\SimpleMDIExample\SimpleMDIExample\bin\Debug\SimpleMDIExample.exe
+D:\编程文件\多文档编辑器\SimpleMDIExample\SimpleMDIExample\bin\Debug\SimpleMDIExample.pdb
+D:\编程文件\多文档编辑器\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.csprojResolveAssemblyReference.cache
+D:\编程文件\多文档编辑器\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.FrmDoc.resources
+D:\编程文件\多文档编辑器\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.Properties.Resources.resources
+D:\编程文件\多文档编辑器\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.csproj.GenerateResource.Cache
+D:\编程文件\多文档编辑器\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.csproj.CoreCompileInputs.cache
+D:\编程文件\多文档编辑器\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.exe
+D:\编程文件\多文档编辑器\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.pdb
+D:\编程文件\多文档编辑器\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.Form1.resources
+D:\编程文件\多文档编辑器\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.Help.resources
+D:\编程文件\多文档编辑器\SimpleMDIExample\SimpleMDIExample\obj\Debug\SimpleMDIExample.Search.resources

@@ -1,0 +1,13 @@
+D:\编程文件\学生通讯录\Contact\Contact\bin\Debug\Contact.exe.config
+D:\编程文件\学生通讯录\Contact\Contact\bin\Debug\Contact.exe
+D:\编程文件\学生通讯录\Contact\Contact\bin\Debug\Contact.pdb
+D:\编程文件\学生通讯录\Contact\Contact\obj\Debug\Contact.csprojResolveAssemblyReference.cache
+D:\编程文件\学生通讯录\Contact\Contact\obj\Debug\Contact.Form_Main.resources
+D:\编程文件\学生通讯录\Contact\Contact\obj\Debug\Contact.Form_add.resources
+D:\编程文件\学生通讯录\Contact\Contact\obj\Debug\Contact.Form_Edit.resources
+D:\编程文件\学生通讯录\Contact\Contact\obj\Debug\Contact.Form_Search.resources
+D:\编程文件\学生通讯录\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+D:\编程文件\学生通讯录\Contact\Contact\obj\Debug\Contact.csproj.GenerateResource.Cache
+D:\编程文件\学生通讯录\Contact\Contact\obj\Debug\Contact.csproj.CoreCompileInputs.cache
+D:\编程文件\学生通讯录\Contact\Contact\obj\Debug\Contact.exe
+D:\编程文件\学生通讯录\Contact\Contact\obj\Debug\Contact.pdb

@@ -1,0 +1,10 @@
+D:\编程文件\计算器\My_mortage\My_mortage\bin\Debug\My_mortage.exe.config
+D:\编程文件\计算器\My_mortage\My_mortage\bin\Debug\My_mortage.exe
+D:\编程文件\计算器\My_mortage\My_mortage\bin\Debug\My_mortage.pdb
+D:\编程文件\计算器\My_mortage\My_mortage\obj\Debug\My_mortage.csprojResolveAssemblyReference.cache
+D:\编程文件\计算器\My_mortage\My_mortage\obj\Debug\My_mortage.Form1.resources
+D:\编程文件\计算器\My_mortage\My_mortage\obj\Debug\My_mortage.Properties.Resources.resources
+D:\编程文件\计算器\My_mortage\My_mortage\obj\Debug\My_mortage.csproj.GenerateResource.Cache
+D:\编程文件\计算器\My_mortage\My_mortage\obj\Debug\My_mortage.csproj.CoreCompileInputs.cache
+D:\编程文件\计算器\My_mortage\My_mortage\obj\Debug\My_mortage.exe
+D:\编程文件\计算器\My_mortage\My_mortage\obj\Debug\My_mortage.pdb
